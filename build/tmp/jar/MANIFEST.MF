@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: cockroach
+Specification-Vendor: John McCallum
+Specification-Version: 1
+Implementation-Title: Forge-Tutorial-1.20.X-28-entity
+Implementation-Version: 0.1-1.20.1
+Implementation-Vendor: John McCallum
+Implementation-Timestamp: 2023-11-27T13:42:01-0500
+
